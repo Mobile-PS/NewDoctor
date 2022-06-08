@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoctorAppointmet</string>
+    <string name="facebook_app_id">879180932450522</string>
+    <string name="fb_login_protocol_scheme">fb879180932450522</string>
+    <string name="facebook_client_token">82bc6ecc7105b6e540e275c98202d52e</string>
+
+
+
+</resources>
